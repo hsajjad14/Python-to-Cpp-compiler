@@ -1,0 +1,6 @@
+def do() -> int:
+	return 2
+
+if True:
+	x = do()
+

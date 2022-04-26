@@ -1,0 +1,8 @@
+lst = [1, 2, 3]
+lst.pop()
+lst.append(4)
+x = 0
+for i in range(len(lst)):
+	x = lst[i] + x
+
+print(x)

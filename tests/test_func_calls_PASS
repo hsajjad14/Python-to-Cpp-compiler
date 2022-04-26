@@ -1,0 +1,24 @@
+
+def do0():
+	x = 4+4
+	print(x)
+
+def do4(r: bool):
+	print(4.5)
+
+def do1() -> int:
+	return 2
+
+def do3(z: float) -> float:
+	return z
+
+do0()
+
+do4(False)
+
+y = 2.0 + (do3(3.3)-1.2)
+(do4(True) and do0()) or (do0() and do4(False))
+
+x = do1()
+
+do0()

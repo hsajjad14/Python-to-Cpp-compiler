@@ -1,0 +1,9 @@
+y = False
+i = True
+z = True or (y and i or y)
+w = 1
+r = 0
+u = 100*(2+3/(3+9 - (r*100 + w)))
+if True:
+	x = 4;
+

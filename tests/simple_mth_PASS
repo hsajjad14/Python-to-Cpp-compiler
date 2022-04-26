@@ -1,0 +1,5 @@
+
+def do_this(z: int, y: int, l: int) -> float:
+	return 24.2
+
+s = do_this(x, y, l)

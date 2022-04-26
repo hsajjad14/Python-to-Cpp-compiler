@@ -1,0 +1,18 @@
+import os
+
+os.system('python3 pythonCompiler.py tests/full_test_PASS > tests/output/full_test_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/multiple_types_FAIL > tests/output/multiple_types_FAIL_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/nested_if_PASS > tests/output/nested_if_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/simple_if_PASS > tests/output/simple_if_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/simple_if_FAIL > tests/output/simple_if_FAIL_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/method_return_FAIL > tests/output/method_return_FAIL_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/simple_if_2_PASS > tests/output/simple_if_2_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/simple_mth_PASS > tests/output/simple_mth_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/simple_test_PASS > tests/output/simple_test_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/simple_while_loop_PASS > tests/output/simple_while_loop_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/strings_PASS > tests/output/strings_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/test_func_calls_PASS > tests/output/test_func_calls_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/test_prints_PASS > tests/output/test_prints_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/variable_test_PASS > tests/output/variable_test_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/list_PASS > tests/output/list_PASS_output.txt 2>&1')
+os.system('python3 pythonCompiler.py tests/list_incorrect_type_FAIL > tests/output/list_incorrect_type_FAIL_output.txt 2>&1')

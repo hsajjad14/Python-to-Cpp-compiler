@@ -1,0 +1,15 @@
+x = True
+y = False
+z = 2
+
+def nested_if() -> int:
+	if x == y or z == 3:
+		if x:
+			return 1
+		else:
+			if z:
+				return 2
+			elif z <= 4 or z >= 6:
+				return 3
+			else:
+				return 4
