@@ -1,7 +1,7 @@
 # Python-to-C++-compiler
-A python to C++ compiler for a compilers course. The project description can be found here https://github.com/hsajjad14/Python-to-Cpp-compiler/blob/master/documentation/project-description.pdf.
+A python to C++ compiler for a compilers course. The project description can be found here https://github.com/hsajjad14/Python-to-Cpp-compiler/blob/master/documentation/project-description.pdf. Uses the [ply](https://www.dabeaz.com/ply/) python library.
 
-The rest of the sprint reports are here https://github.com/hsajjad14/Python-to-Cpp-compiler/tree/master/documentation.
+Sprint reports https://github.com/hsajjad14/Python-to-Cpp-compiler/tree/master/documentation.
 
 To run, do: `python pythonCompiler.py <python_program>`. The python program must use indents and not spaces.
 
