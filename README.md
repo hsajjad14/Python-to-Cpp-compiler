@@ -1,5 +1,5 @@
 # Python-to-C++-compiler
-A python to C++ compiler for a compilers course. The project descripttion can be found here https://github.com/hsajjad14/Python-to-Cpp-compiler/blob/master/documentation/project-description.pdf.
+A python to C++ compiler for a compilers course. The project description can be found here https://github.com/hsajjad14/Python-to-Cpp-compiler/blob/master/documentation/project-description.pdf.
 
 The rest of the sprint reports are here https://github.com/hsajjad14/Python-to-Cpp-compiler/tree/master/documentation.
 
