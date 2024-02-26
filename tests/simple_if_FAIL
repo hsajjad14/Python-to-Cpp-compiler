@@ -1,5 +1,0 @@
-if True:
-	x = do()
-
-def do():
-	return 2

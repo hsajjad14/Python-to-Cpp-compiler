@@ -1,9 +1,0 @@
-x = 87
-
-def do():
-	k = x + 2 - z
-	return k
-	
-z = 100
-do()
-
